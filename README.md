@@ -36,3 +36,9 @@ My name is César Millán, i'm a Biomedical Engineer from México, i have been i
 Any tips are welcome to help me find spaces and write helpful apps for the 3D printing community.
 
 * [My PayPal](https://paypal.me/impresionCM3D) - If you want to buy me a beer you can do it here!
+
+## Copyright
+
+This project is distributed under the Apache license version 2.0 (see the LICENSE file in the project root).
+
+By submitting a pull request for this project, you agree to license your contribution under the Apache license version 2.0 to this project.
