@@ -8,7 +8,7 @@ MacOS app to fix the SD card issues and annoyances with OSX and Dremel's 3D prin
 * Removes al the files with ".gcode" extention
 * Safely eject the SD card
 
-### Getting Started
+## Getting Started
 
 ### Download the latest version
 
@@ -36,4 +36,4 @@ My name is César Millán, i'm a Biomedical Engineer from México, i have been i
 
 Any tips are welcome to help me find spaces and write helpful apps for the 3D printing community.
 
-* [My PayPal] https://paypal.me/impresionCM3D - If you want to buy me a beer you can do it here!
+* [My PayPal] (https://paypal.me/impresionCM3D) - If you want to buy me a beer you can do it here!
