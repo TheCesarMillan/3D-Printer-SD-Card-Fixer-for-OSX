@@ -12,11 +12,10 @@ MacOS app to fix the SD card issues and annoyances with OSX and Dremel's 3D prin
 
 ### Download the latest version
 
-Download the latest version of the "3D Printer SD Card fixer" here
+Download the latest version of the "3D Printer SD Card fixer" [here](https://github.com/TheCesarMillan/3D-Printer-SD-Card-Fixer-for-OSX/blob/master/3D%20Printer%20SD%20Fixer.app.zip?raw=true)
 
 ### Install it
-
-Just drag and drop it to your applications folder
+Unzip the file and drag and drop it to your applications folder
 
 ### Run it
 
@@ -36,4 +35,4 @@ My name is César Millán, i'm a Biomedical Engineer from México, i have been i
 
 Any tips are welcome to help me find spaces and write helpful apps for the 3D printing community.
 
-* [My PayPal] (https://paypal.me/impresionCM3D) - If you want to buy me a beer you can do it here!
+* [My PayPal](https://paypal.me/impresionCM3D) - If you want to buy me a beer you can do it here!
